@@ -1,0 +1,380 @@
+
+
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+.fitness{
+    color:rgba(230, 83, 60, 1);
+    font-family: "Inter", sans-serif;
+  
+      font-size: 40px;
+    font-style: italic;
+    font-weight: 1000px;
+}.hi{
+    align-items: center;
+}
+.others{
+   padding: 15px;
+   color:rgba(255, 255, 255, 1);
+    
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.menu{
+    
+    border:  solid rgba(128, 128, 128, 0.499) ;
+    height: 20px;
+    width: 300px;
+    border-radius: 10px;
+    
+}
+
+
+a{text-decoration: none;}
+.home{
+    background-color:rgb(230, 83, 60);
+    border-radius: 5px;
+    color:rgba(255, 255, 255, 1) ;
+    padding: 1.5px;
+}
+.intro{
+    color: white;
+    font-size: 78px;
+    font-weight: bolder;
+    height: 300px;
+    width: 600px;
+    
+}
+.shape{
+    color:white;
+    font-family: "Playwrite CU", cursive;
+  
+  font-weight: 100;
+font-style: italic;
+}
+.description{
+    color: #ffffff85;
+    font-size: 18;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+}
+.btn{
+    height: 54px;
+    width: 224px;
+    border: 1px solid #FFFFFF;
+    border-radius: 30px;
+    color: #FFFFFF;
+    background-color: black;
+    
+}
+.btn1{
+    background-color:#E6533C;
+
+}
+
+.hello{
+    font-size: 50px;
+}
+
+
+.box1{
+    color: #FFFFFF;
+    
+    border: 1px solid white;
+   
+    height: 98px;
+    width: 193px;
+    background-color: #ffffff34;
+    border-radius: 20px;
+    
+    padding: 0px 0px 0px 30px ;
+    position: relative;
+    top: 150px;
+    left: 230px;
+  
+    
+}
+
+.sec12{
+    height: 580px;
+    width: 50%;
+    background-image:url(../images/Images\ 2.png);
+    background-repeat: no-repeat;
+    
+   
+}
+.first{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding: 0 0 0 200px;
+    
+    
+   
+}
+.ball{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: #E6533C;
+    margin-top: 30px;
+
+    
+}
+.box2{
+    
+        color: #FFFFFF;
+        
+        border: 1px solid white;
+       
+        height: 98px;
+        width: 193px;
+        background-color: #ffffff34;
+        border-radius: 20px;
+        
+        padding: 0px 0px 0px 30px ;
+        position: relative;
+        top: 300px;
+        right: 130px;
+        display: flex;
+}
+.head2{
+    font-size: 48px;
+    font-family: "Inter", sans-serif;
+    font: weight 900px;
+    color: #FFFFFF;
+    
+    text-align: center;
+    padding: 100px 0 0 0;
+
+} 
+.des2{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    
+    text-align: center;
+    color: #ffffff5a;
+}
+.main2{
+    padding: 120px;
+    display: grid;
+    grid-template-columns:repeat(4, 1fr);
+
+}
+.pic1{
+    height: 274px;
+    width: 231px;
+    align-items: center;
+    
+}
+.pic1 img{
+    border: 1px solid black;
+    border-radius: 50%;
+    padding:0 0 0 25px ;
+}
+.move{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+.sec3{
+    width: 1060px;
+    height: 371px;
+    background-color: rgba(128, 128, 128, 0.514);
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 10px auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+   
+
+    
+}
+.head3{
+    font-size: 48px;
+    font-family: "Inter", sans-serif;
+    font: weight 900px;
+    color: #FFFFFF;
+    
+   
+    text-align: left;
+    
+}
+.des3{
+    text-align: left;
+}
+.pic4{
+    text-align: left;
+    padding: 20px;
+}
+.pic5{
+    padding: 30px 30px 30px 120px;
+}
+.pic5 img{
+    height: 312px;
+    width: 366px;
+    border: 1px solid grey;
+    border-radius: 18px;
+    
+}
+.sec41{
+    background-color: rgba(128, 128, 128, 0.299);
+}
+.head4{
+    font-size: 28px;
+    font-family: "Inter", sans-serif;
+    font: weight 900px;
+    color: #FFFFFF;
+    
+    
+   
+}
+table,th,td{
+    border: 1px solid grey;
+   
+}
+td,th{
+    padding: 10px;
+}
+.des4{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    padding: 10px;
+   
+    color: #ffffff5a;
+   
+}
+.des5{border: .5px solid black;
+     border-radius: 5px;font-size: 14px;
+     font-family: "Inter", sans-serif;
+     padding: 10px;
+     width: 300px;;
+     margin: 2px;
+    
+     color: #ffffff5a;
+     background-color: rgba(128, 128, 128, 0.123);
+ }
+ .des6{
+    width: 628px;
+ }
+
+.sec41{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 100px 50px 200px;
+    
+}
+.btn3{
+    margin: 50px 50px 10px 10px ;
+}
+.sec5{
+    height: 604px;
+    width: 1060px;
+    background-color: rgba(128, 128, 128, 0.353);
+    border: 1px solid black;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 40px 250px;
+   
+}
+.team img{
+    width: 325px;
+    height: 272px;
+   
+   flex-wrap: ;
+    border: 1px solid rgb(179, 21, 21);
+    border-radius: 10px;
+    
+   
+    
+}
+.text{
+    position: relative;
+   top: 0px;
+   
+    
+}
+.name{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left; 
+    position:relative;
+    top: 0px;
+    
+
+    
+
+}
+.profession{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    
+    text-align: left;
+    color: #ffffff5a; 
+}
+.team{
+   padding: 12px;
+}
+.sec6{
+    background-color: rgba(128, 128, 128, 0.353);
+    display: flex;
+    justify-content: space-evenly;
+align-items: center;
+padding: 80px;
+    
+
+    
+   
+}
+.fitness2{
+    font-size: 70px;
+    margin: 0px;
+}
+.des8{
+    font-size: 20px;
+    
+}
+.line{
+    line-height: 5px;
+}
+.sec7{
+    background-color: rgba(128, 128, 128, 0.353);
+   text-align: center;
+}
+hr{
+    border: 1px solid gray;
+    margin: 10px;
+    width: 1200px;
+    margin: 20px 50px 20px 200px;
+}
+        
+      
+    @media  and (max width: 576px) {
+        .sec6{
+        display: flex;
+        flex direction: column;
+        }
+    }
+  
+
+   
+  
+     
+    
+    
+
+
+
+   
+   
+
+    
